@@ -33,7 +33,7 @@ um simples ui clone do instagram web toda tela de login, foi um bom treinamento 
 
 
 
-## 🚀 Tecnologias utilizadas
+### 🚀 Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
